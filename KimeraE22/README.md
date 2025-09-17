@@ -11,3 +11,5 @@ E22-900M33S
 E22-400M30S
 
 E22-400M33S
+
+![Scheme E22](https://github.com/TheClanLabs/TheClanKimera/blob/main/KimeraE22/Scheme_Kimera_E22.png)
