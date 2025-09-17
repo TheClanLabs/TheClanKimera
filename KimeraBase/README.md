@@ -29,35 +29,11 @@ The elements used in the project would be:
 
 > 3.- ESP32-DevKitC with ESP32-WROOM-32D or ESP32-WROOM-32U as controller.
 
-The circuit diagram would be:
 
 
-![Scheme v-0.2](https://github.com/TheClanLabs/Kimera_Base/blob/main/Scheme_Kimera_V-0.2.png)
+Latest version tested: https://github.com/TheClanLabs/TheClanKimera/tree/main/KimeraBase/KimeraBaseV-0.2
 
-And the appearance would be:
-
-![3D-Top](https://github.com/TheClanLabs/Kimera_Base/blob/main/Kimera_1.png)
-![3d-Bak](https://github.com/TheClanLabs/Kimera_Base/blob/main/Kimera_2.png)
-
-## Project status
-
-> 5/8/2025 Request to JLCPCB for 5 boards for the Kimera V-0.2 prototype. (7.22€)
-
-> 6/8/2025 The component E22-900M30S was ordered from Aliexpress. (8.09€)
-
-> 7/8/2025 The board ESP32-DevKitC with ESP32-WROOM-32U was ordered from Aliexpress. (3.79€)
-
-> 19/8/2025 Received from Aliexpress the board ESP32-DevKitC and the component E22-900M30S
-
-> 19/8/2025 Testing Meshtastic firmware installation on ESP32-WROOM-32U successfully.
-
-> 30/8/2025 The components were welded and integrated into the Madrid mesh for testing.
-
-## To be kept in mind for the following versions
-
-> The E22-900M30S documentation recommends avoiding PCB traces from passing under the component. In version 0.2, some traces do not meet this recommendation, so future versions will require this recommendation, even if it means increasing the board width.
-
-> When the kit is connected via USB, the 5V pin outputs less than 5 volts, as it is a 5V USB connection that passes through a Schottky diode with its corresponding voltage drop. Although the RF module can operate with less than 5V, the recommendation is to get as close to 5V as possible. The solution may be to use a different socket for the power supply and reserve the USB socket for the firmware update.
+Current version in development: https://github.com/TheClanLabs/TheClanKimera/tree/main/KimeraBase/KimeraBaseV-0.4
 
 ## Disclaimer
 
