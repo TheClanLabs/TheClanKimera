@@ -36,8 +36,8 @@ The circuit diagram would be:
 
 And the appearance would be:
 
-![3D-Top](https://github.com/TheClanLabs/Kimera_Base/blob/main/Kimera_1.png)
-![3d-Bak](https://github.com/TheClanLabs/Kimera_Base/blob/main/Kimera_2.png)
+![3D-Top](https://github.com/TheClanLabs/TheClanKimera/blob/main/KimeraBase/KimeraBaseV-0.2/Kimera_1.png)
+![3d-Bak](https://github.com/TheClanLabs/TheClanKimera/blob/main/KimeraBase/KimeraBaseV-0.2/Kimera_2.png)
 
 ## Project status
 
