@@ -29,7 +29,7 @@ The elements used in the project would be:
 
 > 3.- ESP32-DevKitC with ESP32-WROOM-32D or ESP32-WROOM-32U as controller.
 
-
+Starting with version 0.4, the RF element is separated into a plug-in module called the Kimera E22, and a 5V boost is added to power this module.
 
 Latest version tested: https://github.com/TheClanLabs/TheClanKimera/tree/main/KimeraBase/KimeraBaseV-0.2
 
