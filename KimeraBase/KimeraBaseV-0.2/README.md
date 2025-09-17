@@ -32,7 +32,7 @@ The elements used in the project would be:
 The circuit diagram would be:
 
 
-![Scheme v-0.2](KimeraBase/KimeraBaseV-0.2/Scheme_Kimera_V-0.2.png)
+![Scheme v-0.2](https://github.com/TheClanLabs/TheClanKimera/blob/main/KimeraBase/KimeraBaseV-0.2/Scheme_Kimera_V-0.2.png)
 
 And the appearance would be:
 
