@@ -1,4 +1,4 @@
-# Kimera_Base
+# Kimera_Base V 0.2
 Open-source hardware project consisting of the creation of a device capable of connecting to the Meshtastic network, compatible with the Hydra project, but simplifying its construction.
 
 ## Features
